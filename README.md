@@ -24,15 +24,19 @@
 
 > **第一部分：Python基础**
 
-- [x] [Python Environment（Python环境）](01-python-environment.md)
-- [x] [Basic Syntax（基本语法）](02-basic-syntax.md)
-- [x] [Control Flow（流程控制）](03-control-flow.md)
-- [x] [Core Data Structures（核心数据结构）](04-core-data-structures.md)
-- [x] [Functions（函数）](05-functions.md)
-- [x] [Modules and Packages（模块和包）](06-modules-and-packages.md)
-- [x] [Object-Oriented Programming（面向对象编程）](07-object-oriented-programming.md)
-- [x] [File Handling（文件处理）](08-file-handling.md)
-- [x] [Python Engineering Basics（Python工程基础）](09-python-engineering-basics.md)
+- [x] [Python Environment（Python环境）](1-python-foundations/01-python-environment.md)
+- [x] [Basic Syntax（基本语法）](1-python-foundations/02-basic-syntax.md)
+- [x] [Control Flow（流程控制）](1-python-foundations/03-control-flow.md)
+- [x] [Core Data Structures（核心数据结构）](1-python-foundations/04-core-data-structures.md)
+- [x] [Functions（函数）](1-python-foundations/05-functions.md)
+- [x] [Modules and Packages（模块和包）](1-python-foundations/06-modules-and-packages.md)
+- [x] [Object-Oriented Programming（面向对象编程）](1-python-foundations/07-object-oriented-programming.md)
+- [x] [File Handling（文件处理）](1-python-foundations/08-file-handling.md)
+- [x] [Python Engineering Basics（Python工程基础）](1-python-foundations/09-python-engineering-basics.md)
+
+> **第二部分：数据分析**
+
+> **第三部分：PyTorch**
 
 > 🚧 持续学习中，随缘更新……
 
