@@ -22,6 +22,8 @@
 
 ## 📂 笔记目录
 
+> **第一部分：Python基础**
+
 - [x] [Python Environment（Python环境）](01-python-environment.md)
 - [x] [Basic Syntax（基本语法）](02-basic-syntax.md)
 - [x] [Control Flow（流程控制）](03-control-flow.md)
