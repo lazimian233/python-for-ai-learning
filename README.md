@@ -27,10 +27,10 @@
 - [x] [Control Flow（流程控制）](03-control-flow.md)
 - [x] [Core Data Structures（核心数据结构）](04-core-data-structures.md)
 - [x] [Functions（函数）](05-functions.md)
-- [ ] [Modules and Packages（模块和包）](06-modules-and-packages.md)
-- [ ] [Object-Oriented Programming（面向对象编程）](07-object-oriented-programming.md)
-- [ ] [File Handling（文件处理）](08-file-handling.md)
-- [ ] [Python Engineering Basics（Python工程基础）](09-python-engineering-basics.md)
+- [x] [Modules and Packages（模块和包）](06-modules-and-packages.md)
+- [x] [Object-Oriented Programming（面向对象编程）](07-object-oriented-programming.md)
+- [x] [File Handling（文件处理）](08-file-handling.md)
+- [x] [Python Engineering Basics（Python工程基础）](09-python-engineering-basics.md)
 
 > 🚧 持续学习中，随缘更新……
 
