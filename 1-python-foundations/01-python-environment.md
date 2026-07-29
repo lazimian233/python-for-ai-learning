@@ -221,6 +221,18 @@ pip install -r requirements.txt
 
 即可安装全部环境
 
+在项目目录里自动生成requirements.txt：
+
+~~~bash
+pip freeze > requirements.txt
+~~~
+
+查看requirements.txt：
+
+~~~bash
+cat requirements.txt
+~~~
+
 **AI项目中的环境管理**
 
 以后的项目大概这样：

@@ -36,6 +36,10 @@
 
 > **第二部分：数据分析**
 
+- [x] [Data Analysis Overview（数据分析概述）](2-data-analysis/10-data-analysis-overview.md)
+- [x] [Python Data Analysis Basics（Python数据分析基础）](2-data-analysis/11-python-data-analysis-basics.md)
+- [x] [NumPy Basics（NumPy基础）](2-data-analysis/12-numpy-basics.md)
+
 > **第三部分：PyTorch**
 
 > 🚧 持续学习中，随缘更新……
