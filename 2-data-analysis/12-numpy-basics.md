@@ -22,7 +22,7 @@ Pandas DataFrame
 PyTorch Tensor
 ```
 
-## ndarray：NumPy核心对象
+## ndarray：NumPy核心数据结构
 
 全称：N-dimensional Array（N维数组），是NumPy最重要的数据结构
 
