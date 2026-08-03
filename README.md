@@ -39,6 +39,10 @@
 - [x] [Data Analysis Overview（数据分析概述）](2-data-analysis/10-data-analysis-overview.md)
 - [x] [Python Data Analysis Basics（Python数据分析基础）](2-data-analysis/11-python-data-analysis-basics.md)
 - [x] [NumPy Basics（NumPy基础）](2-data-analysis/12-numpy-basics.md)
+- [x] [Pandas Basics（Pandas基础）](2-data-analysis/13-pandas-basics.md) 
+- [x] [Data Processing（数据处理）](2-data-analysis/14-data-processing.md) 
+- [x] [Data Visualization（数据可视化）](2-data-analysis/15-data-visualization.md) 
+- [x]  [Exploratory Data Analysis（探索性数据分析）](2-data-analysis/16-exploratory-data-analysis.md)
 
 > **第三部分：PyTorch**
 

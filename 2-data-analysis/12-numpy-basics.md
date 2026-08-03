@@ -476,7 +476,7 @@ matrix = np.array([
 ])
 ~~~
 
-- axis=0：按列计算
+- axis=**0**：按**列**计算
 
 ```python
 np.sum(matrix, axis=0)
@@ -504,7 +504,7 @@ np.sum(matrix, axis=0)
 [5 7 9]
 ```
 
-- axis=1：按行计算
+- axis=**1**：按**行**计算
 
 ```
 np.sum(matrix, axis=1)
